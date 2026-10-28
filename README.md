@@ -10,4 +10,6 @@ My focus is the path from customer need to a release the operating team can supp
 
 I work with Salesforce Marketing Cloud, Salesforce Data 360, Braze and connected data environments, with an emphasis on source authority, identity, consent, operating ownership and end-to-end validation.
 
+I also use Claude Code, custom subagents and reusable Agent Skills for AI-assisted requirements analysis, technical review and QA planning. [See my documented workflow](https://danoishan.github.io/work/ai-delivery-workflows.html), including the illustrative example and its evidence limits.
+
 [Portfolio](https://danoishan.github.io/) · [Resume](https://danoishan.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/danoishan/) · [Email](mailto:danoishan@gmail.com)
